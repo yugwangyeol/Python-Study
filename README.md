@@ -1,2 +1,3 @@
 # Python-Study
-진행한 Python Study
+
+- 2019년 부터 2020년까지 진행한 파이썬 스터디 기록
